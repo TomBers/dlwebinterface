@@ -1,0 +1,14 @@
+
+#mainbrand{
+	background-image: url("../img/kioskobserver.png");
+	width: 130px;
+	height: 100%;
+	text-indent: -9999px;
+	background-repeat:no-repeat;
+	background-position: 10px 0;
+}
+
+.navbar-inner
+{
+	border-bottom: 6px solid #ffcf00;
+}
